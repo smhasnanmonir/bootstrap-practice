@@ -1,0 +1,47 @@
+.row-css {
+    margin-top: 50px;
+}
+
+.custom-card {
+    background-color: #3F87F5;
+    background-image: url(./images/design.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 90px;
+    background-blend-mode: overlay;
+    border-radius: 26px;
+    height: 480px;
+    width: 292px;
+    position: relative;
+    transform: scale(1.1);
+    top: -50px;
+    color: white;
+}
+
+.custom-card p {
+    font-size: 15px;
+}
+
+.card-price-title {
+    font-size: 36px;
+}
+
+.card-title {
+    font-size: 28px;
+}
+
+
+.custom-btn,
+.custom-btn-2 {
+    width: 232px;
+    height: 45px;
+    border-radius: 24px;
+    background-color: white;
+    color: #3F87F5;
+    border: none;
+}
+
+.custom-btn-2 {
+    background-color: #f496d21f;
+    color: #3F87F5;
+}
